@@ -1,9 +1,10 @@
 # TB Kelompok 9 Informatika B
 Program Absensi Karyawan
-Anggota Kelompok 9
--) Gezant Ashabil Haqdu D (2206049)
--) Muhammad Renaldy Taufik Ramadhan (2206045)
--) Deden Rully Cahyadi (2206054)
+
+-> Anggota Kelompok 9
+-> Gezant Ashabil Haqdu D (2206049)
+-> Muhammad Renaldy Taufik Ramadhan (2206045)
+-> Deden Rully Cahyadi (2206054)
 
 
 
