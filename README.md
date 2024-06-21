@@ -8,26 +8,12 @@ Program Absensi Karyawan
 
 
 
-# AbsenSIKaryawan
-Absensi dan Sistem Informasi Karyawan berbasis web
+# Menginstall Database
+1. Buka pada XAMPP nyalahkan Apache dan MYSQL
+2. Selanjutnya buka domain web PhpMyAdmin http://localhost/phpmyadmin/
+3. Buat Database pada PhpMyAdmin dengan nama Absensi Karyawan
+4. Lalu insert file Absensi Karyawan kedalam database
 
-
--> Absen Karyawan - SIKaryawan
-
-Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis web, yang dibuat untuk memenuhi kebutuhan perusahaan atau instansi yang membutuhkan aplikasi absensi karyawan.
-
--> Fitur - fitur aplikasi : 
-1.admin, dimana admin bisa mengontrol aplikasi, ini seperti menambahkan, melihat, mengubah atau menghapus data.
-
-2.Sistem absensi karyawan, sistem ini memungkinkan setiap karyawan melakukan absensi berdasarkan sesi nya masing - masing.  Untuk mencegah penyalahgunaan data.
-
--> Login default admin : 
-  1. username = admin
-  2. password = admin
-  
--> Login default karyawan : 
-  1. username = user
-  2. password = user
-  
--> Catatan(PENTING) :
-    <i style="color: yellow;">Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'karyawansi'</i>
+# Menggunakan Website Absensi
+1. buka website dengan domain sesuai database localhost/Absensi Karyawan
+2. Login akun Username : admin Password : admin
